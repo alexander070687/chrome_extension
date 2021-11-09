@@ -1,0 +1,268 @@
+{
+  "books": [
+    {
+      "value": "Ge",
+      "text": "Genesis"
+    },
+    {
+      "value": "Ex",
+      "text": "Exodus"
+    },
+    {
+      "value": "Le",
+      "text": "Leviticus"
+    },
+    {
+      "value": "Nu",
+      "text": "Numbers"
+    },
+    {
+      "value": "De",
+      "text": "Deuteronomy"
+    },
+    {
+      "value": "Jos",
+      "text": "Joshua"
+    },
+    {
+      "value": "Ju",
+      "text": "Judges"
+    },
+    {
+      "value": "Ru",
+      "text": "Ruth"
+    },
+    {
+      "value": "1S",
+      "text": "1 Samuel"
+    },
+    {
+      "value": "2S",
+      "text": "2 Samuel"
+    },
+    {
+      "value": "1K",
+      "text": "1 Kings"
+    },
+    {
+      "value": "2K",
+      "text": "2 Kings"
+    },
+    {
+      "value": "1Chr",
+      "text": "1 Chronicles"
+    },
+    {
+      "value": "2Chr",
+      "text": "2 Chronicles"
+    },
+    {
+      "value": "Ezr",
+      "text": "Ezra"
+    },
+    {
+      "value": "Ne",
+      "text": "Nehemiah"
+    },
+    {
+      "value": "Est",
+      "text": "Esther"
+    },
+    {
+      "value": "Jb",
+      "text": "Job"
+    },
+    {
+      "value": "Ps",
+      "text": "Psalms"
+    },
+    {
+      "value": "Pr",
+      "text": "Proverbs"
+    },
+    {
+      "value": "Ec",
+      "text": "Ecclesiastes"
+    },
+    {
+      "value": "Song",
+      "text": "Song of Songs"
+    },
+    {
+      "value": "Is",
+      "text": "Isaiah"
+    },
+    {
+      "value": "Je",
+      "text": "Jeremiah"
+    },
+    {
+      "value": "La",
+      "text": "Lamentations"
+    },
+    {
+      "value": "Ez",
+      "text": "Ezekiel"
+    },
+    {
+      "value": "Da",
+      "text": "Daniel"
+    },
+    {
+      "value": "Ho",
+      "text": "Hosea"
+    },
+    {
+      "value": "Joel",
+      "text": "Joel"
+    },
+    {
+      "value": "Am",
+      "text": "Amos"
+    },
+    {
+      "value": "Obad",
+      "text": "Obadiah"
+    },
+    {
+      "value": "Jona",
+      "text": "Jonah"
+    },
+    {
+      "value": "Mi",
+      "text": "Micah"
+    },
+    {
+      "value": "Na",
+      "text": "Nahum"
+    },
+    {
+      "value": "Ha",
+      "text": "Habakkuk"
+    },
+    {
+      "value": "Zeph",
+      "text": "Zephaniah"
+    },
+    {
+      "value": "Hagg",
+      "text": "Haggai"
+    },
+    {
+      "value": "Zech",
+      "text": "Zechariah"
+    },
+    {
+      "value": "Ma",
+      "text": "Malachi"
+    },
+    {
+      "value": "Mt",
+      "text": "Matthew"
+    },
+    {
+      "value": "Mak",
+      "text": "Mark"
+    },
+    {
+      "value": "Lk",
+      "text": "Luke"
+    },
+    {
+      "value": "Jn",
+      "text": "John 1"
+    },
+    {
+      "value": "Ac",
+      "text": "Acts"
+    },
+    {
+      "value": "Ro",
+      "text": "Romans"
+    },
+    {
+      "value": "1Co",
+      "text": "1 Corinthians"
+    },
+    {
+      "value": "2Co",
+      "text": "2 Corinthians"
+    },
+    {
+      "value": "Ga",
+      "text": "Galatians"
+    },
+    {
+      "value": "Ep",
+      "text": "Ephesians"
+    },
+    {
+      "value": "Phl",
+      "text": "Philippians"
+    },
+    {
+      "value": "Co",
+      "text": "Colossians"
+    },
+    {
+      "value": "1Th",
+      "text": "1 Thessalonians"
+    },
+    {
+      "value": "2Th",
+      "text": "2 Thessalonians"
+    },
+    {
+      "value": "1Ti",
+      "text": "1 Timothy"
+    },
+    {
+      "value": "2Ti",
+      "text": "2 Timothy"
+    },
+    {
+      "value": "Tit",
+      "text": "Titus"
+    },
+    {
+      "value": "Phm",
+      "text": "Philemon"
+    },
+    {
+      "value": "He",
+      "text": "Hebrews"
+    },
+    {
+      "value": "Ja",
+      "text": "James"
+    },
+    {
+      "value": "1Pe",
+      "text": "1 Peter"
+    },
+    {
+      "value": "2Pe",
+      "text": "2 Peter"
+    },
+    {
+      "value": "1Jhn",
+      "text": "1 John"
+    },
+    {
+      "value": "2Jhn",
+      "text": "2 John"
+    },
+    {
+      "value": "3Jhn",
+      "text": "3 John"
+    },
+    {
+      "value": "Jude",
+      "text": "Jude"
+    },
+    {
+      "value": "Re",
+      "text": "Revelation"
+    }
+  ]
+}
